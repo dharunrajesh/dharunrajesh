@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharun Rajesh M</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 👨‍💻 Portfolio [dharunrajesh.onrender.com](dharunrajesh.onrender.com)
+- 👨‍💻 Portfolio [dharunrajesh.onrender.com](https://dharunrajesh.onrender.com)
 
 - 📫 How to reach me **dharunrajeshm@gmail.com**
 
