@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharun Rajesh M</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 👨‍💻 Portfolio [dharunrajesh.onrender.com](https://dharunrajesh.onrender.com)
 
